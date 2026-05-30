@@ -36,3 +36,9 @@ Repository ini didedikasikan sebagai jurnal belajar mandiri (*learning in public
 - [ ] Implementasi Model: **Random Forest, XGBoost,** dan **LightGBM**.
 
 ...
+
+
+## How Time Series Analysis Works?  
+
+Time series analysis involves working with time series data to analyze the data systematically. Time series data is a sequence of data points collected or recorded at specific points in time such that each data point is associated with a particular timestamp, enabling analysis of how the data changes relative to time.  
+
