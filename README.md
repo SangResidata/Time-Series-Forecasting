@@ -38,6 +38,7 @@ Repository ini didedikasikan sebagai jurnal belajar mandiri (*learning in public
 
 ...
 
+```markdown
 
 ## How Time Series Analysis Works?  
 
