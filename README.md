@@ -13,7 +13,7 @@ Financial analysts use time series data such as stock price movements, or a comp
 <img width="1024" height="729" alt="image" src="https://github.com/user-attachments/assets/91e9b610-732c-4fbd-aa9b-772f3c80839a" />
 
 
-```markdown
+```
 
 Repository ini didedikasikan sebagai jurnal belajar mandiri (*learning in public*) untuk menguasai konsep, metodologi, dan implementasi **Time Series Forecasting** (Peramalan Deret Waktu).
 
@@ -36,9 +36,8 @@ Repository ini didedikasikan sebagai jurnal belajar mandiri (*learning in public
 - [ ] *Feature Engineering*: Pembuatan *Lag Features* ($t-1, t-2$) dan *Rolling Window Metrics*.
 - [ ] Implementasi Model: **Random Forest, XGBoost,** dan **LightGBM**.
 
-...
 
-```markdown
+```
 
 ## How Time Series Analysis Works?  
 
