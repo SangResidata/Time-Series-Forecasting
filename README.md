@@ -44,9 +44,16 @@ Repository ini didedikasikan sebagai jurnal belajar mandiri (*learning in public
 Time series analysis involves working with time series data to analyze the data systematically.  
 Time series data is a sequence of data points collected or recorded at specific points in time such that each data point is associated with a particular timestamp, enabling analysis of how the data changes relative to time.
 
-## Components of Time Series Data
+## Components of Time Series Data.
 
-Time series data can be broken down into several fundamental components to help understand underlying patterns and forecast.
+Time series data can be broken down into several fundamental components to help understand underlying patterns and forecast.  
+
+## Characteristics of Time Series Data Components.  
+
+Time series data consists of observations recorded over regular time intervals. It is primarily analyzed by breaking it down into four fundamental components: trend, seasonality, cyclicality, and irregular variations.
+
+<img width="651" height="448" alt="image" src="https://github.com/user-attachments/assets/5a2a850e-6e08-4cf1-ac0d-864b43814c33" />
+
 
 
 
