@@ -3,7 +3,11 @@ Statistical Forecasting Time Series analysis for predicting the future data.
 
 ## What is Time Series Data Analysis?
 
-Time series data analysis is the analysis of datasets that change over a period of time. Time series datasets record observations of the same variable over various points of time. Financial analysts use time series data such as stock price movements, or a company’s sales over time, to analyze a company’s performance.  
+Time series analysis is a statistical technique used to analyze data points recorded at regular time intervals. It can help identify patterns, trends, and seasonal variations, making it useful for forecasting results over time.  
+
+Engineers and scientists working with time series data can use time series analysis to monitor, model, and predict system behaviors, which optimizes systems and improves forecasting accuracy.
+
+Financial analysts use time series data such as stock price movements, or a company’s sales over time, to analyze a company’s performance.  
 
 <img width="1024" height="729" alt="image" src="https://github.com/user-attachments/assets/91e9b610-732c-4fbd-aa9b-772f3c80839a" />
 
