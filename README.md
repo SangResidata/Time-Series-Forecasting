@@ -55,7 +55,7 @@ Time series data consists of observations recorded over regular time intervals. 
 <img width="651" height="448" alt="image" src="https://github.com/user-attachments/assets/5a2a850e-6e08-4cf1-ac0d-864b43814c33" />
 
 
-## Time Series Analysis Steps.  
+## Time Series Analysis Steps  
 
 <img width="671" height="141" alt="image" src="https://github.com/user-attachments/assets/cc730678-4c45-4e83-a0ca-7677c209b637" />
 
