@@ -48,7 +48,7 @@ Time series data is a sequence of data points collected or recorded at specific 
 
 Time series data can be broken down into several fundamental components to help understand underlying patterns and forecast.  
 
-## Characteristics of Time Series Data Components.  
+## Characteristics of Time Series Data Components  
 
 Time series data consists of observations recorded over regular time intervals. It is primarily analyzed by breaking it down into four fundamental components: trend, seasonality, cyclicality, and irregular variations.
 
