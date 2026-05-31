@@ -44,7 +44,7 @@ Repository ini didedikasikan sebagai jurnal belajar mandiri (*learning in public
 Time series analysis involves working with time series data to analyze the data systematically.  
 Time series data is a sequence of data points collected or recorded at specific points in time such that each data point is associated with a particular timestamp, enabling analysis of how the data changes relative to time.
 
-## Components of Time Series Data.
+## Components of Time Series Data
 
 Time series data can be broken down into several fundamental components to help understand underlying patterns and forecast.  
 
