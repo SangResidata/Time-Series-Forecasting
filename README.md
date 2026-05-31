@@ -55,5 +55,9 @@ Time series data consists of observations recorded over regular time intervals. 
 <img width="651" height="448" alt="image" src="https://github.com/user-attachments/assets/5a2a850e-6e08-4cf1-ac0d-864b43814c33" />
 
 
+## Time Series Analysis Steps.
+
+Analyzing time series data involves a systematic approach that integrates various techniques for understanding, modeling, and forecasting data points collected over time.  
+
 
 
