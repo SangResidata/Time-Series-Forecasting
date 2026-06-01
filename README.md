@@ -75,6 +75,9 @@ Exploratory data analysis (EDA) involves collecting raw data and then preprocess
 
 Decomposition is a technique used to break down time series data into its fundamental components—trends, seasonal, cyclic, and remainder—making it easier to analyze the underlying patterns and interpret data.  
 
+<img width="482" height="386" alt="image" src="https://github.com/user-attachments/assets/cae5b042-d3e5-452c-b564-9366d22fa72c" />
+
+
 
 
 
