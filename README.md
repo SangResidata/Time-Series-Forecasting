@@ -64,3 +64,13 @@ Analyzing time series data involves a systematic approach that integrates variou
 
 
 
+## Exploratory Data Analysis  
+
+Exploratory data analysis (EDA) involves collecting raw data and then preprocessing and visualizing the data for further analysis. It includes:
+
+- Data collection: Gathering observations over a specified period and ensuring the quality and accuracy of the data set.
+- Data preprocessing and data visualization: Understanding and preparing the data set for analysis and modeling. Data preprocessing includes data cleaning, data transformation, and structural operations.
+
+
+
+
