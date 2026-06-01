@@ -83,6 +83,12 @@ Decomposition is a technique used to break down time series data into its fundam
 Model selection finds the most suitable model to capture the underlying data patterns based on characteristics such as seasonality, trend, and stationarity. Model fitting focuses on training the selected model to minimize the difference between observed data and predictions, ensuring it generalizes well to new data.  
 
 
+## Model Prediction and Forecasting
+
+In model prediction and forecasting, the model trained in the previous step is applied to new data to generate future data points based on historical patterns.
+
+
+
 
 
 
