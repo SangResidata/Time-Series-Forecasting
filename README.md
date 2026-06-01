@@ -75,7 +75,15 @@ Exploratory data analysis (EDA) involves collecting raw data and then preprocess
 
 Decomposition is a technique used to break down time series data into its fundamental components—trends, seasonal, cyclic, and remainder—making it easier to analyze the underlying patterns and interpret data.  
 
-<img width="482" height="386" alt="image" src="https://github.com/user-attachments/assets/cae5b042-d3e5-452c-b564-9366d22fa72c" />
+<img width="482" height="386" alt="image" src="https://github.com/user-attachments/assets/cae5b042-d3e5-452c-b564-9366d22fa72c" />  
+
+
+## Model Selection and Fitting
+
+Model selection finds the most suitable model to capture the underlying data patterns based on characteristics such as seasonality, trend, and stationarity. Model fitting focuses on training the selected model to minimize the difference between observed data and predictions, ensuring it generalizes well to new data.  
+
+
+
 
 
 
