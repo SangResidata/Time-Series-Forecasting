@@ -63,13 +63,18 @@ Time series data consists of observations recorded over regular time intervals. 
 Analyzing time series data involves a systematic approach that integrates various techniques for understanding, modeling, and forecasting data points collected over time.  
 
 
-
 ## Exploratory Data Analysis  
 
 Exploratory data analysis (EDA) involves collecting raw data and then preprocessing and visualizing the data for further analysis. It includes:
 
 - Data collection: Gathering observations over a specified period and ensuring the quality and accuracy of the data set.
 - Data preprocessing and data visualization: Understanding and preparing the data set for analysis and modeling. Data preprocessing includes data cleaning, data transformation, and structural operations.
+
+
+## Decomposition
+
+Decomposition is a technique used to break down time series data into its fundamental components—trends, seasonal, cyclic, and remainder—making it easier to analyze the underlying patterns and interpret data.  
+
 
 
 
