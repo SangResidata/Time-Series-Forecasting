@@ -89,6 +89,12 @@ In model prediction and forecasting, the model trained in the previous step is a
 
 
 
+## Model Evaluation
+
+Model evaluation involves assessing how well a model performs and the accuracy of its predictions. It comprises of three key components:
+
+-  Performance metrics: Metrics such as root mean squared error (RMSE) calculate the differences between predicted and actual values, providing a measure of the accuracy of a model.  
+-  Validation techniques: Cross-validation, backtesting, and other techniques assess the reliability of a model by evaluating its performance in making predictions on new data sets.  
 
 
 
