@@ -97,6 +97,10 @@ Model evaluation involves assessing how well a model performs and the accuracy o
 -  Validation techniques: Cross-validation, backtesting, and other techniques assess the reliability of a model by evaluating its performance in making predictions on new data sets.
 -  Interpretability methods: Techniques such as local interpretable model-agnostic explanations (LIME) and Shapley additive explanations (SHAP) help with understanding model predictions, making the model’s decisions more transparent.
 
+<img width="334" height="286" alt="gambar" src="https://github.com/user-attachments/assets/a0f83979-f829-4639-a999-b89ecda49570" />
+
+
+
 
 
 
