@@ -116,6 +116,9 @@ Estimating an ARIMA model using System Identification Toolbox for time series fo
 
 The exponential smoothing model applies exponentially decreasing weights to past observations, prioritizing more recent data. This method effectively smooths short-term fluctuations while capturing underlying trends and patterns in time series data. It is particularly useful for data with trends or seasonality.  
 
+### 2. Machine Learning Models
+
+Machine learning models can capture the complex patterns in data that traditional models might miss.  
 
 
 
