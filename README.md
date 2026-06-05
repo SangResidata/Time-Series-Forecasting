@@ -1,6 +1,6 @@
 # Time-Series-Forecasting  
 
-Statistical Forecasting Time Series analysis for predicting the future data.
+This is Repository about Statistical Forecasting Time Series analysis for predicting the future data.
 
 ## What is Time Series Data Analysis?
 
