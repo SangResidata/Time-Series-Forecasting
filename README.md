@@ -105,6 +105,14 @@ Model evaluation involves assessing how well a model performs and the accuracy o
 
 Three common approaches to modeling time series data are traditional forecasting models, machine learning models, and deep learning models.
 
+### Traditional Forecasting Models
+
+Traditional forecasting models use statistical techniques to identify and model underlying data patterns and trends.  
+
+**The auto regressive integrated moving average (ARIMA)** statistical model predicts future values by analyzing historical data. It captures trends and seasonality, making it applicable for both stationary and nonstationary data sets and suitable for short- to medium-term forecasting, such as stock prices and sales.
+
+
+
 
 
 
