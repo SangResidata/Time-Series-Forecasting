@@ -118,7 +118,9 @@ The exponential smoothing model applies exponentially decreasing weights to past
 
 ### 2. Machine Learning Models
 
-Machine learning models can capture the complex patterns in data that traditional models might miss.  
+Machine learning models can capture the complex patterns in data that traditional models might miss. 
+
+**Random forest models** build multiple decision trees and combine their outputs to improve prediction accuracy in time series analysis. They handle large, high-dimensional data sets and are robust to overfitting. By using past data as predictors, they capture nonlinear relationships and interactions, making them well-suited for modeling irregular patterns.
 
 
 
