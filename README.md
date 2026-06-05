@@ -111,8 +111,10 @@ Traditional forecasting models use statistical techniques to identify and model 
 
 **The auto regressive integrated moving average (ARIMA)** statistical model predicts future values by analyzing historical data. It captures trends and seasonality, making it applicable for both stationary and nonstationary data sets and suitable for short- to medium-term forecasting, such as stock prices and sales.  
 
-Estimating an ARIMA model using System Identification Toolbox for time series forecasting. (See MATLAB code.)
+Estimating an ARIMA model using System Identification Toolbox for time series forecasting. (See MATLAB code.)  
 
+
+The exponential smoothing model applies exponentially decreasing weights to past observations, prioritizing more recent data. This method effectively smooths short-term fluctuations while capturing underlying trends and patterns in time series data. It is particularly useful for data with trends or seasonality.  
 
 
 
