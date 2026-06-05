@@ -99,7 +99,11 @@ Model evaluation involves assessing how well a model performs and the accuracy o
 
 <img width="334" height="286" alt="gambar" src="https://github.com/user-attachments/assets/a0f83979-f829-4639-a999-b89ecda49570" />  
 
-<img width="304" height="303" alt="gambar" src="https://github.com/user-attachments/assets/e47e96fb-e1d8-4d69-8962-50fcd46284fa" />
+<img width="304" height="303" alt="gambar" src="https://github.com/user-attachments/assets/e47e96fb-e1d8-4d69-8962-50fcd46284fa" />  
+
+## Common Approaches to Time Series Modeling  
+
+Three common approaches to modeling time series data are traditional forecasting models, machine learning models, and deep learning models.
 
 
 
