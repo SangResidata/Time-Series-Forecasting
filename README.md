@@ -122,7 +122,11 @@ Machine learning models can capture the complex patterns in data that traditiona
 
 **Random forest models** build multiple decision trees and combine their outputs to improve prediction accuracy in time series analysis. They handle large, high-dimensional data sets and are robust to overfitting. By using past data as predictors, they capture nonlinear relationships and interactions, making them well-suited for modeling irregular patterns.
 
-**Support vector machines (SVMs)** are supervised learning models used for classification and regression. In time series analysis, they can model nonlinear relationships and handle high-dimensional data, especially with small, complex data sets. For example, SVMs can forecast energy demand by capturing nonlinear interactions between historical consumption, weather, and economic indicators.
+**Support vector machines (SVMs)** are supervised learning models used for classification and regression. In time series analysis, they can model nonlinear relationships and handle high-dimensional data, especially with small, complex data sets. For example, SVMs can forecast energy demand by capturing nonlinear interactions between historical consumption, weather, and economic indicators. 
+
+Plot showing classification of ECG signals using signal processing, wavelet-based feature extraction, and a support vector machine (SVM) classifier to distinguish between arrhythmia (ARR), congestive heart failure (CHF), and normal sinus rhythm (NSR). (See MATLAB code.)
+
+
 
 
 
