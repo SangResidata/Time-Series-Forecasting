@@ -124,7 +124,10 @@ Machine learning models can capture the complex patterns in data that traditiona
 
 **Support vector machines (SVMs)** are supervised learning models used for classification and regression. In time series analysis, they can model nonlinear relationships and handle high-dimensional data, especially with small, complex data sets. For example, SVMs can forecast energy demand by capturing nonlinear interactions between historical consumption, weather, and economic indicators. 
 
-Plot showing classification of ECG signals using signal processing, wavelet-based feature extraction, and a support vector machine (SVM) classifier to distinguish between arrhythmia (ARR), congestive heart failure (CHF), and normal sinus rhythm (NSR). (See MATLAB code.)
+Plot showing classification of ECG signals using signal processing, wavelet-based feature extraction, and a support vector machine (SVM) classifier to distinguish between arrhythmia (ARR), congestive heart failure (CHF), and normal sinus rhythm (NSR). (See MATLAB code.)  
+
+## Deep Learning Models
+Deep learning enhances time series analysis by automatically learning patterns and dependencies directly from data. These models capture both short-term fluctuations and long-term trends, making them ideal for forecasting and anomaly detection.
 
 
 
