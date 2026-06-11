@@ -141,7 +141,20 @@ Deep learning enhances time series analysis by automatically learning patterns a
 
 **Convolutional neural networks (CNNs)** are used in time series analysis as they can automatically extract features from data using convolutional layers. They identify local patterns and hierarchies, making them effective for identifying short-term dependencies for tasks such as multivariate time series classification.  
 
-<img width="857" height="413" alt="image" src="https://github.com/user-attachments/assets/b7b7ec9c-1451-4574-8df1-95f42f75d17f" />
+<img width="857" height="413" alt="image" src="https://github.com/user-attachments/assets/b7b7ec9c-1451-4574-8df1-95f42f75d17f" /> 
+
+
+## Types of Time Series Analysis
+
+Time series analyses can be classified into categories that describe, explain, forecast, and optimize data trends and patterns effectively:
+
+    - **Descriptive analysis** summarizes the key features of a data set. It helps in understanding the underlying patterns, trends, and seasonal variations in the data.
+    - **Explanatory analysis** aims to understand the relationships and causal effects within the data. It seeks to explain why certain patterns or trends occur by 
+      examining the underlying factors and correlations.
+    - **Predictive analysis** uses historical data, statistical models, and machine learning algorithms to predict future trends and patterns.
+    - **Prescriptive analysis** provides recommendations and actions based on predictive insights. It suggests optimal decisions by evaluating different scenarios and their potential outcomes.
+
+
 
 
 
