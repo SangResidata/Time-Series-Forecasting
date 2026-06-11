@@ -147,12 +147,11 @@ Deep learning enhances time series analysis by automatically learning patterns a
 ## Types of Time Series Analysis
 
 Time series analyses can be classified into categories that describe, explain, forecast, and optimize data trends and patterns effectively:
-
-    - **Descriptive analysis** summarizes the key features of a data set. It helps in understanding the underlying patterns, trends, and seasonal variations in the data.
-    - **Explanatory analysis** aims to understand the relationships and causal effects within the data. It seeks to explain why certain patterns or trends occur by 
+ - **Descriptive analysis** summarizes the key features of a data set. It helps in understanding the underlying patterns, trends, and seasonal variations in the data.
+ - **Explanatory analysis** aims to understand the relationships and causal effects within the data. It seeks to explain why certain patterns or trends occur by 
       examining the underlying factors and correlations.
-    - **Predictive analysis** uses historical data, statistical models, and machine learning algorithms to predict future trends and patterns.
-    - **Prescriptive analysis** provides recommendations and actions based on predictive insights. It suggests optimal decisions by evaluating different scenarios and their potential outcomes.
+ - **Predictive analysis** uses historical data, statistical models, and machine learning algorithms to predict future trends and patterns.
+ - **Prescriptive analysis** provides recommendations and actions based on predictive insights. It suggests optimal decisions by evaluating different scenarios and their potential outcomes.
 
 
 
