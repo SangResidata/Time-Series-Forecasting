@@ -133,7 +133,12 @@ Machine learning models can capture the complex patterns in data that traditiona
 Plot showing classification of ECG signals using signal processing, wavelet-based feature extraction, and a support vector machine (SVM) classifier to distinguish between arrhythmia (ARR), congestive heart failure (CHF), and normal sinus rhythm (NSR). (See MATLAB code.)  
 
 ## Deep Learning Models
-Deep learning enhances time series analysis by automatically learning patterns and dependencies directly from data. These models capture both short-term fluctuations and long-term trends, making them ideal for forecasting and anomaly detection.
+Deep learning enhances time series analysis by automatically learning patterns and dependencies directly from data. These models capture both short-term fluctuations and long-term trends, making them ideal for forecasting and anomaly detection.  
+
+**Long short-term memory (LSTM)** models are a specialized type of recurrent neural network (RNN) designed to overcome the limitations of traditional RNNs by using memory cells and gating mechanisms. This design enables them to capture long-term dependencies effectively, making LSTMs particularly useful for time series analysis tasks such as forecasting and sequence prediction.  
+
+<img width="621" height="218" alt="gambar" src="https://github.com/user-attachments/assets/8547b0ae-f9d2-458f-b0ba-805540362e30" />
+
 
 
 
