@@ -139,7 +139,10 @@ Deep learning enhances time series analysis by automatically learning patterns a
 
 <img width="621" height="218" alt="gambar" src="https://github.com/user-attachments/assets/8547b0ae-f9d2-458f-b0ba-805540362e30" />  
 
-**Convolutional neural networks (CNNs)** are used in time series analysis as they can automatically extract features from data using convolutional layers. They identify local patterns and hierarchies, making them effective for identifying short-term dependencies for tasks such as multivariate time series classification.
+**Convolutional neural networks (CNNs)** are used in time series analysis as they can automatically extract features from data using convolutional layers. They identify local patterns and hierarchies, making them effective for identifying short-term dependencies for tasks such as multivariate time series classification.  
+
+<img width="857" height="413" alt="image" src="https://github.com/user-attachments/assets/b7b7ec9c-1451-4574-8df1-95f42f75d17f" />
+
 
 
 
