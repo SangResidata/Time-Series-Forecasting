@@ -153,6 +153,11 @@ Time series analyses can be classified into categories that describe, explain, f
  - **Predictive analysis** uses historical data, statistical models, and machine learning algorithms to predict future trends and patterns.
  - **Prescriptive analysis** provides recommendations and actions based on predictive insights. It suggests optimal decisions by evaluating different scenarios and their potential outcomes.
 
+## Challenges in Time Series Analysis
+
+Certain types of obstacles are typical of time series analysis. During data acquisition, it’s common for sensors or instruments to record data at inconsistent intervals, a problem for many time series models designed to handle monotonically increasing data. Preparing the data may include handling missing data, outliers, noise, and other irregularities as well as resampling the data to create uniform intervals. Exploratory data analysis techniques discussed above can help in mitigating these issues.
+
+
 
 
 
