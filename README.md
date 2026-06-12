@@ -1,4 +1,4 @@
-# Time-Series-Forecasting  
+<img width="536" height="388" alt="image" src="https://github.com/user-attachments/assets/da2dd097-f0f4-4c90-b67b-3bf9015bf926" /># Time-Series-Forecasting  
 
 This is Repository about Statistical Forecasting Time Series analysis for predicting the future data.
 
@@ -159,6 +159,9 @@ Certain types of obstacles are typical of time series analysis. During data acqu
 
 Additionally, the inherent seasonality and cyclical patterns in time series data can complicate the process of choosing and fitting models. A solid understanding of the data set and applicable modeling options is a great starting point. The outlined modeling approaches, along with cross-validation and other established model verification techniques, will be helpful in these cases.
 
+## Why Time Series Analysis Is Important
+
+Time series analysis can be used to model and predict future trends in various domains, such as stock prices, weather conditions, sales, and demand forecasting. This approach enhances the accuracy of planning and supports strategic decision-making by anticipating upcoming developments. Examples of applications that benefit from time series analysis include:
 
 
 
