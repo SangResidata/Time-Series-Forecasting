@@ -173,7 +173,14 @@ Time series analysis involves techniques for understanding and forecasting data 
 
 See how to store timestamped earthquake data in a timetable and use timetable functions to analyze and visualize ground acceleration over a specific time interval for understanding seismic activity.  
 
-<img width="422" height="403" alt="image" src="https://github.com/user-attachments/assets/2e8d178f-af16-4091-bd4b-482a638f1b28" />
+<img width="422" height="403" alt="image" src="https://github.com/user-attachments/assets/2e8d178f-af16-4091-bd4b-482a638f1b28" />  
+
+### Practical Introduction to Time-Frequency Analysis
+
+Learn how to perform and interpret basic time-frequency analysis to analyze a nonstationary signal such as dual-tone multi-frequency (DTMF) tones.  
+
+<img width="414" height="433" alt="image" src="https://github.com/user-attachments/assets/b33ecfa7-e266-49ce-a56a-ad1aed0d490c" />
+
 
 
 
