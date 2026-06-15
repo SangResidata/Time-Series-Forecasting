@@ -169,6 +169,13 @@ Time series analysis can be used to model and predict future trends in various d
 
 Time series analysis involves techniques for understanding and forecasting data that evolves over time. The examples below illustrate various applications, highlighting unique methods and tools for extracting meaningful insights from complex data sets.  
 
+### Loma Prieta Earthquake Analysis
+
+See how to store timestamped earthquake data in a timetable and use timetable functions to analyze and visualize ground acceleration over a specific time interval for understanding seismic activity.  
+
+<img width="422" height="403" alt="image" src="https://github.com/user-attachments/assets/2e8d178f-af16-4091-bd4b-482a638f1b28" />
+
+
 
 
 
