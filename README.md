@@ -165,7 +165,10 @@ Time series analysis can be used to model and predict future trends in various d
 
 <img width="864" height="272" alt="image" src="https://github.com/user-attachments/assets/62cbf65a-01dc-4722-b8eb-dc80b2c8a303" />  
 
-## Examples of Time Series Analysis
+## Examples of Time Series Analysis  
+
+Time series analysis involves techniques for understanding and forecasting data that evolves over time. The examples below illustrate various applications, highlighting unique methods and tools for extracting meaningful insights from complex data sets.  
+
 
 
 
