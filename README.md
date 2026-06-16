@@ -187,6 +187,15 @@ Learn how to perform multivariate time series forecasting of data measured from 
 
 <img width="381" height="280" alt="image" src="https://github.com/user-attachments/assets/762e12ca-04a0-4f1c-bebf-4f461ee632f1" />  
 
+### Classify ECG Signals Using LSTM
+
+See how to classify ECG data using LSTM networks and time-frequency analysis.
+
+<img width="380" height="310" alt="image" src="https://github.com/user-attachments/assets/91d9a8e8-8988-43ce-8036-bdb50c7b74f4" />  
+
+
+
+
 
 
 
