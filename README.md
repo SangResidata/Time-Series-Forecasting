@@ -179,7 +179,16 @@ See how to store timestamped earthquake data in a timetable and use timetable fu
 
 Learn how to perform and interpret basic time-frequency analysis to analyze a nonstationary signal such as dual-tone multi-frequency (DTMF) tones.  
 
-<img width="414" height="433" alt="image" src="https://github.com/user-attachments/assets/b33ecfa7-e266-49ce-a56a-ad1aed0d490c" />
+<img width="414" height="433" alt="image" src="https://github.com/user-attachments/assets/b33ecfa7-e266-49ce-a56a-ad1aed0d490c" />  
+
+### Forecast Multivariate Time Series
+
+Learn how to perform multivariate time series forecasting of data measured from predator and prey populations in a prey crowding scenario.  
+
+<img width="381" height="280" alt="image" src="https://github.com/user-attachments/assets/762e12ca-04a0-4f1c-bebf-4f461ee632f1" />  
+
+
+
 
 
 
