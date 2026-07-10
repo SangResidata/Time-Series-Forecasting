@@ -11,3 +11,6 @@ A timetable is a MATLAB data container designed for timestamped data that associ
 
 ## What are common models use in Time Series Forecasting?
 Common models include ARIMA for capturing trends and seasonality, exponential smoothing for prioritizing recent data, LSTM networks for capturing long-term dependencies, and machine learning models like random forest and support vector machines for complex patterns.
+
+## How Does decomposition help in Time Series Forecasting?
+Decomposition breaks down time series data into its fundamental components: trends, seasonal patterns, cyclic variations, and remainder, making it easier to analyze underlying patterns and interpret the data.
