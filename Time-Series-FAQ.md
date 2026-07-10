@@ -8,3 +8,6 @@ Time series data consists of four fundamental components: trend (overall directi
 
 ## What is Timetable in MATLAB and why is it useful?
 A timetable is a MATLAB data container designed for timestamped data that associates a time with each row. It simplifies time series analysis by providing time-specific functions for aligning, combining, synchronizing, and resampling data.
+
+## What are common models use in Time Series Forecasting?
+Common models include ARIMA for capturing trends and seasonality, exponential smoothing for prioritizing recent data, LSTM networks for capturing long-term dependencies, and machine learning models like random forest and support vector machines for complex patterns.
