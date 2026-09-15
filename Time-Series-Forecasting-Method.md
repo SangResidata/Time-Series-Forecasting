@@ -32,3 +32,8 @@ Time series forecasting can broadly be categorized into the following categories
     2. Machine Learning — Linear Regression, XGBoost, Random Forest, or any ML model with reduction methods
     3. Deep Learning — RNN, LSTM
 
+## Statistical Models
+
+When it comes to time series forecasting using statistical models, there are quite a few popular and well-accepted algorithms. Each of them has different mathematical modalities and they come with a different set of assumptions that must be satisfied. This tutorial will not go in-depth on the mathematical concepts, rather will just give an intuition that you will hopefully find helpful.
+
+### ARIMA
