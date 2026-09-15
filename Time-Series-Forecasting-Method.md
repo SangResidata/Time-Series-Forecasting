@@ -24,4 +24,11 @@ When we are dealing with multivariate time series forecasting, the input variabl
   1. Exogenous: Input variables that are **not influenced** by other input variables and on which the output variable depends.
   2. Endogenous: Input variables that are **influenced** by other input variables and on which the output variable depends.
 
+# Time Series Forecasting Methods
+
+Time series forecasting can broadly be categorized into the following categories:
+
+    1. Classical / Statistical Models — Moving Averages, Exponential Smoothing, ARIMA, SARIMA, TBATS
+    2. Machine Learning — Linear Regression, XGBoost, Random Forest, or any ML model with reduction methods
+    3. Deep Learning — RNN, LSTM
 
