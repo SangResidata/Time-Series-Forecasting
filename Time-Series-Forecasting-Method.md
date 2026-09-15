@@ -45,3 +45,5 @@ ARIMA is one of the most popular classical methods for time series forecasting. 
     replaced by the difference between the data values and the previous values).
   - Moving average (MA): incorporates the dependency between an observation and a residual error from a moving average model applied to
     lagged observations.
+
+The "AR" part of ARIMA indicates that the evolving variable of interest is regressed on its own lagged (i.e., prior observed) values. The "MA" part indicates that the regression error is actually a linear combination of error terms whose values occurred contemporaneously and at various times in the past. The "I" (for "integrated") indicates that the data values have been replaced with the difference between their values and the previous values (and this differencing process may have been performed more than once). The purpose of each of these features is to make the model fit the data as well as possible.
