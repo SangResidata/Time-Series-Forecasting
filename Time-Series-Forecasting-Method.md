@@ -37,3 +37,11 @@ Time series forecasting can broadly be categorized into the following categories
 When it comes to time series forecasting using statistical models, there are quite a few popular and well-accepted algorithms. Each of them has different mathematical modalities and they come with a different set of assumptions that must be satisfied. This tutorial will not go in-depth on the mathematical concepts, rather will just give an intuition that you will hopefully find helpful.
 
 ### ARIMA
+
+ARIMA is one of the most popular classical methods for time series forecasting. It stands for autoregressive integrated moving average and is a type of model that forecasts given time series based on its own past values, that is, its own lags and the lagged forecast errors. ARIMA consists of three components:
+
+  - Autoregression (AR): refers to a model that shows a changing variable that regresses on its own lagged, or prior, values.
+  - Integrated (I): represents the differencing of raw observations to allow for the time series to become stationary (i.e., data values are
+    replaced by the difference between the data values and the previous values).
+  - Moving average (MA): incorporates the dependency between an observation and a residual error from a moving average model applied to
+    lagged observations.
