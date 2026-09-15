@@ -15,4 +15,13 @@ Consider the above example and suppose that our dataset includes other weather-r
 
 <img width="691" height="330" alt="image" src="https://github.com/user-attachments/assets/0e05a028-3d77-41db-8361-5e3ea34a4dd4" />
 
-You are still forecasting temperature values for the future but now you can use other available information in your forecast as we assume temperature values will be dependent on these factors as well.
+You are still forecasting temperature values for the future but now you can use other available information in your forecast as we assume temperature values will be dependent on these factors as well.  
+
+<img width="708" height="159" alt="image" src="https://github.com/user-attachments/assets/a76d4d1d-9855-4bfc-b545-ad0986b3b36e" />  
+
+When we are dealing with multivariate time series forecasting, the input variables can be of two types:
+
+  1. Exogenous: Input variables that are **not influenced** by other input variables and on which the output variable depends.
+  2. Endogenous: Input variables that are **influenced** by other input variables and on which the output variable depends.
+
+
