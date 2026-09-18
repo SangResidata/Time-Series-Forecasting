@@ -50,4 +50,7 @@ The "AR" part of ARIMA indicates that the evolving variable of interest is regre
 
 ### SARIMA
 
+An extension to ARIMA that supports the direct modeling of the seasonal component of the series is called SARIMA. A problem with the ARIMA model is that it does not support seasonal data. That is a time series with a repeating cycle. ARIMA expects data that is either not seasonal or has the seasonal component removed, e.g. seasonally adjusted via methods such as seasonal differencing. SARIMA adds three new hyperparameters to specify the autoregression (AR), differencing (I), and moving average (MA) for the seasonal component of the series.  
+
+<img width="427" height="293" alt="image" src="https://github.com/user-attachments/assets/34dc4f55-9eb0-4314-8e8b-09f69ce08c9c" />
 
