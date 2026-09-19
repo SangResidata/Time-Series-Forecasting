@@ -54,3 +54,9 @@ An extension to ARIMA that supports the direct modeling of the seasonal componen
 
 <img width="427" height="293" alt="image" src="https://github.com/user-attachments/assets/34dc4f55-9eb0-4314-8e8b-09f69ce08c9c" />
 
+
+### Exponential Smoothing
+
+Exponential smoothing is a time series forecasting method for univariate data. It can be extended to support data with a trend or seasonal component. It can be used as an alternative to the popular ARIMA family of models.
+
+Exponential smoothing of time series data assigns exponentially decreasing weights for newest to oldest observations. The older the data, the less weight the data is given, whereas newer data is given more weight.
