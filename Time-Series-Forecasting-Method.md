@@ -59,4 +59,9 @@ An extension to ARIMA that supports the direct modeling of the seasonal componen
 
 Exponential smoothing is a time series forecasting method for univariate data. It can be extended to support data with a trend or seasonal component. It can be used as an alternative to the popular ARIMA family of models.
 
-Exponential smoothing of time series data assigns exponentially decreasing weights for newest to oldest observations. The older the data, the less weight the data is given, whereas newer data is given more weight.
+Exponential smoothing of time series data assigns exponentially decreasing weights for newest to oldest observations. The older the data, the less weight the data is given, whereas newer data is given more weight.  
+
+  - vSimple (single) exponential smoothing uses a weighted moving average with exponentially decreasing weights.
+  - Holt's exponential smoothing is usually more reliable for handling data that shows trends.
+  - Triple exponential smoothing (also called the Multiplicative Holt-Winters) is more reliable for parabolic trends or data that shows
+    trends and seasonality.
