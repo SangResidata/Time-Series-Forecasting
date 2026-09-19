@@ -68,4 +68,4 @@ Exponential smoothing of time series data assigns exponentially decreasing weigh
 
     <img width="728" height="421" alt="image" src="https://github.com/user-attachments/assets/e965e46c-900c-409e-a6e3-c76df6a95142" />
 
-                comparison results between a single exponential smoothing (ES), double ES, and two-stage EWMA
+                comparisons results between a single exponential smoothing (ES), double ES, and two-stage EWMA
