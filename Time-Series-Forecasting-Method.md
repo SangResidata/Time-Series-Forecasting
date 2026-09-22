@@ -76,3 +76,6 @@ TBATS models are for time series data with multiple seasonality. For example, re
 
 In TBATS, a Box-Cox transformation is applied to the original time series, and then this is modeled as a linear combination of an exponentially smoothed trend, a seasonal component, and an ARMA component.  
 
+<img width="751" height="417" alt="image" src="https://github.com/user-attachments/assets/4052d7db-121a-41b8-9971-5d5ccd69c9f0" />
+
+
