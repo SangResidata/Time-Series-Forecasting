@@ -69,3 +69,10 @@ Exponential smoothing of time series data assigns exponentially decreasing weigh
     <img width="728" height="421" alt="image" src="https://github.com/user-attachments/assets/e965e46c-900c-409e-a6e3-c76df6a95142" />
 
                 comparisons results between a single exponential smoothing (ES), double ES, and two-stage EWMA
+
+### TBATS
+
+TBATS models are for time series data with multiple seasonality. For example, retail sales data may have a daily pattern and weekly pattern, as well as an annual pattern.
+
+In TBATS, a Box-Cox transformation is applied to the original time series, and then this is modeled as a linear combination of an exponentially smoothed trend, a seasonal component, and an ARMA component.  
+
