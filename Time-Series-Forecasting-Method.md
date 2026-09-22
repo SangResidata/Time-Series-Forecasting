@@ -86,6 +86,12 @@ A – ARMA errors: Models the residuals (errors) using an Autoregressive Moving 
 T – Trend: Captures both linear and exponential trends, and supports trend damping for long-term forecasts.  
 S – Seasonal components: Accommodates multiple overlapping seasonal periods at once (such as daily, weekly, and yearly cycles combined).  
 
+**Why Use TBATS?** 
 
+Multiple Seasonality: Traditional models like standard ARIMA or ETS struggle when data has more than one seasonal cycle. TBATS excels at handling combinations like hourly data that cycles every 24 hours and every 7 days.  
+
+Flexible Seasonality: Unlike rigid dummy-variable seasonal models, seasonal patterns in TBATS can change slowly over time.  
+
+Fully Automated: The algorithm automatically tunes parameters and selects optimal components based on the Akaike Information Criterion (AIC).  
 
 
