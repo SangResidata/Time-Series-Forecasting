@@ -78,4 +78,14 @@ In TBATS, a Box-Cox transformation is applied to the original time series, and t
 
 <img width="751" height="417" alt="image" src="https://github.com/user-attachments/assets/4052d7db-121a-41b8-9971-5d5ccd69c9f0" />
 
+**What TBATS Stands For?** 
+
+T – Trigonometric seasonality: Uses Fourier series to model seasonal patterns using sine and cosine waves, which allows it to handle complex and high-frequency cycles efficiently.  
+B – Box-Cox transformation: Stabilizes the variance in the data to make predictions more resilient against outliers and fluctuations.  
+A – ARMA errors: Models the residuals (errors) using an Autoregressive Moving Average process to capture short-term dynamic patterns.  
+T – Trend: Captures both linear and exponential trends, and supports trend damping for long-term forecasts.  
+S – Seasonal components: Accommodates multiple overlapping seasonal periods at once (such as daily, weekly, and yearly cycles combined).  
+
+
+
 
