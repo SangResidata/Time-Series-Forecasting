@@ -100,3 +100,7 @@ If you don't want to use statistical models or they are not performing well, you
 
 For the purpose of this tutorial, I have used the US airline passengers dataset available to download from Kaggle.
 
+<img width="283" height="264" alt="image" src="https://github.com/user-attachments/assets/66c18f6d-65e5-49a0-9e0c-943c316c5b29" />  
+
+
+
