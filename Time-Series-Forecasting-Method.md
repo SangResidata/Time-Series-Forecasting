@@ -94,4 +94,9 @@ Flexible Seasonality: Unlike rigid dummy-variable seasonal models, seasonal patt
 
 Fully Automated: The algorithm automatically tunes parameters and selects optimal components based on the Akaike Information Criterion (AIC).  
 
+## Machine Learning
+
+If you don't want to use statistical models or they are not performing well, you can try this method. Machine learning is an alternative way of modeling time-series data for forecasting. In this method, we extract features from the date to add to our "X variable" and the value of the time-series is "y variable". Let's see an example:
+
+For the purpose of this tutorial, I have used the US airline passengers dataset available to download from Kaggle.
 
