@@ -102,5 +102,18 @@ For the purpose of this tutorial, I have used the US airline passengers dataset 
 
 <img width="283" height="264" alt="image" src="https://github.com/user-attachments/assets/66c18f6d-65e5-49a0-9e0c-943c316c5b29" />  
 
+We can extract features from the "Date" column such as a month, year, week of the year, etc. See example:
 
-
+      # extract month and year from dates
+      data['Month'] = [i.month for i in data['Date']]
+      data['Year'] = [i.year for i in data['Date']]
+      
+      # create a sequence of numbers
+      data['Series'] = np.arange(1,len(data)+1)
+      
+      # drop unnecessary columns and re-arrange
+      data.drop(['Date', 'MA12'], axis=1, inplace=True)
+      data = data[['Series', 'Year', 'Month', 'Passengers']]
+      
+      # check the head of the dataset
+      data.head()
