@@ -125,3 +125,10 @@ Sample rows after extracting features
 
 Something to note here is that the train-test-split for time-series data is special. Because you cannot change the order of the table, you have to ensure that you don't sample randomly as you want your test data to contain points that are in the future from the points in the train data (time always moves forward). 
 
+    # split data into train-test set
+    train = data[data['Year'] < 1960]
+    test = data[data['Year'] >= 1960]
+
+    # check shape
+    train.shape, test.shape
+    >>> ((132, 4), (12, 4))
