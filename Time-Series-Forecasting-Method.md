@@ -121,3 +121,7 @@ We can extract features from the "Date" column such as a month, year, week of th
 <img width="389" height="280" alt="image" src="https://github.com/user-attachments/assets/95a294c1-8908-4997-b467-9dfe0874e5cb" />  
 
 
+Sample rows after extracting features
+
+Something to note here is that the train-test-split for time-series data is special. Because you cannot change the order of the table, you have to ensure that you don't sample randomly as you want your test data to contain points that are in the future from the points in the train data (time always moves forward). 
+
