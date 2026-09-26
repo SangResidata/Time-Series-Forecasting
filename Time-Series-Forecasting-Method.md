@@ -117,3 +117,7 @@ We can extract features from the "Date" column such as a month, year, week of th
       
       # check the head of the dataset
       data.head()
+
+<img width="389" height="280" alt="image" src="https://github.com/user-attachments/assets/95a294c1-8908-4997-b467-9dfe0874e5cb" />  
+
+
