@@ -135,3 +135,6 @@ Something to note here is that the train-test-split for time-series data is spec
 
 Now that we have done the train-test-split, we are ready to train a machine learning model on the train data, score it on the test data and evaluate the performance of our model. In this example, I will use PyCaret; an open-source, low-code machine learning library in Python that automates machine learning workflows. To use PyCaret, you have to install it using pip.
 
+    # install pycaret
+    pip install pycaret
+
