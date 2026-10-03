@@ -121,7 +121,9 @@ We can extract features from the "Date" column such as a month, year, week of th
 <img width="389" height="280" alt="image" src="https://github.com/user-attachments/assets/95a294c1-8908-4997-b467-9dfe0874e5cb" />  
 
 
-Sample rows after extracting features
+Sample rows after extracting features  
+
+If you need any help during installation, please refer to the official documentation.
 
 Something to note here is that the train-test-split for time-series data is special. Because you cannot change the order of the table, you have to ensure that you don't sample randomly as you want your test data to contain points that are in the future from the points in the train data (time always moves forward). 
 
@@ -136,5 +138,9 @@ Something to note here is that the train-test-split for time-series data is spec
 Now that we have done the train-test-split, we are ready to train a machine learning model on the train data, score it on the test data and evaluate the performance of our model. In this example, I will use PyCaret; an open-source, low-code machine learning library in Python that automates machine learning workflows. To use PyCaret, you have to install it using pip.
 
     # install pycaret
-    pip install pycaret
+    pip install pycaret  
+    
+If you need any help during installation, please refer to the official documentation.
+
+Assuming you have installed PyCaret successfully:  
 
