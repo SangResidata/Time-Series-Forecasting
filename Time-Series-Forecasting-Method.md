@@ -157,3 +157,6 @@ Now to train machine learning models, you just need to run one line:
       best = compare_models(sort = 'MAE')
 
 
+<img width="700" height="514" alt="image" src="https://github.com/user-attachments/assets/669d3b8f-c780-4f70-a860-0e7619a6b383" />
+
+
