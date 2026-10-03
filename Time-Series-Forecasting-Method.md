@@ -142,5 +142,18 @@ Now that we have done the train-test-split, we are ready to train a machine lear
     
 If you need any help during installation, please refer to the official documentation.
 
-Assuming you have installed PyCaret successfully:  
+Assuming you have installed PyCaret successfully:    
+
+  # import the regression module
+from pycaret.regression import *
+
+      # initialize setup
+      s = setup(data = train, test_data = test, target = 'Passengers', fold_strategy = 'timeseries', numeric_features = ['Year', 'Series'], 
+      fold = 3, transform_target = True, session_id = 123)  
+
+      
+Now to train machine learning models, you just need to run one line:  
+
+      best = compare_models(sort = 'MAE')
+
 
