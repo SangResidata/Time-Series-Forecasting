@@ -160,3 +160,6 @@ Now to train machine learning models, you just need to run one line:
 <img width="700" height="514" alt="image" src="https://github.com/user-attachments/assets/669d3b8f-c780-4f70-a860-0e7619a6b383" />
 
 
+Output from compare_models
+
+The best model using 3 fold cross-validation based on Mean Absolute Error (MAE) is Leased Angle Regression. We can now use this model to forecast the future. For that, we have to create "X variables" in the future. This can be done by creating future dates and then extracting features from them.  
