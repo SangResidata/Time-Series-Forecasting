@@ -178,3 +178,6 @@ Since we have trained our model on the data until 1960, let's predict five years
 Sample rows from future_df
 
 Now we can use future_df to make predictions:
+
+    predictions_future = predict_model(best, data=future_df)
+    predictions_future.head()
