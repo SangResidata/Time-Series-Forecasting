@@ -165,3 +165,13 @@ Output from compare_models
 The best model using 3 fold cross-validation based on Mean Absolute Error (MAE) is Leased Angle Regression. We can now use this model to forecast the future. For that, we have to create "X variables" in the future. This can be done by creating future dates and then extracting features from them.  
 
 Since we have trained our model on the data until 1960, let's predict five years out in the future through 1965. To use our final model to generate future predictions, we first need to create a dataset consisting of the Month, Year, Series column on the future dates. This code below creates the future "X" dataset.  
+
+    future_dates = pd.date_range(start = '1961-01-01', end = '1965-01-01', freq = 'MS')
+    future_df = pd.DataFrame()
+    future_df['Month'] = [i.month for i in future_dates]
+    future_df['Year'] = [i.year for i in future_dates]    
+    future_df['Series'] = np.arange(145,(145+len(future_dates)))
+    future_df.head()  
+
+<img width="252" height="239" alt="image" src="https://github.com/user-attachments/assets/2efc6ac4-7248-4aaa-bb6b-ac3bbb0ab935" />
+
