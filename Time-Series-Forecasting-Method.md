@@ -175,3 +175,6 @@ Since we have trained our model on the data until 1960, let's predict five years
 
 <img width="252" height="239" alt="image" src="https://github.com/user-attachments/assets/2efc6ac4-7248-4aaa-bb6b-ac3bbb0ab935" />
 
+Sample rows from future_df
+
+Now we can use future_df to make predictions:
