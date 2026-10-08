@@ -181,3 +181,11 @@ Now we can use future_df to make predictions:
 
     predictions_future = predict_model(best, data=future_df)
     predictions_future.head()
+
+<img width="353" height="236" alt="image" src="https://github.com/user-attachments/assets/16fa1f81-9202-48a3-bd67-5bfaeaf8c118" />
+
+
+Output from predictions_future.head()
+
+And now we can plot it:  
+
