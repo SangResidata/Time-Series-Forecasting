@@ -189,3 +189,11 @@ Output from predictions_future.head()
 
 And now we can plot it:  
 
+    concat_df = pd.concat([data,predictions_future], axis=0)
+    concat_df_i = pd.date_range(start='1949-01-01', end = '1965-01-01', freq = 'MS')
+    concat_df.set_index(concat_df_i, inplace=True)
+    fig = px.line(concat_df, x=concat_df.index, y=["Passengers", "Label"], template = 'plotly_dark')
+    fig.show()  
+
+
+
