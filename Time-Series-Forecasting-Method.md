@@ -196,4 +196,5 @@ And now we can plot it:
     fig.show()  
 
 
+<img width="700" height="344" alt="gambar" src="https://github.com/user-attachments/assets/79067aee-ba82-4426-8e59-779deb0b3ed9" />
 
