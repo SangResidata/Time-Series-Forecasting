@@ -198,3 +198,7 @@ And now we can plot it:
 
 <img width="700" height="344" alt="gambar" src="https://github.com/user-attachments/assets/79067aee-ba82-4426-8e59-779deb0b3ed9" />
 
+Actual (1949–1960) and Predicted (1961–1964) US airline passengers
+
+There are a few important elements to note here. Whenever you are dealing with univariate time series you can always convert them into regression problems and solve them as in this example. However, you have to be careful about cross-validation. You cannot do random cross-validation on time-series models and you must use time-series appropriate techniques.In this example, PyCaret uses TimeSeriesSplit from the scikit-learn library.  
+
