@@ -25,3 +25,9 @@ Pmdarima is a statistical library designed to fill the void in Python's time ser
   4. Cross-validation utilities
   5. A rich collection of built-in time series datasets for prototyping and examples
     
+## Kats
+
+Kats is another amazing open-source project by Facebook, released by their Infrastructure Data Science team. It is available for download on PyPI.
+
+Kats is a toolkit to analyze time-series data; a lightweight, easy-to-use, and generalizable framework to perform time series analysis. Kats aims to provide a one-stop shop for time series analysis, including detection, forecasting, feature extraction/embedding, and multivariate analysis, etc.  
+
