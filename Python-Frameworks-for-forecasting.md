@@ -15,3 +15,13 @@ Prophet is a procedure for forecasting time series data based on an additive mod
 sktime is an open-source, unified framework for machine learning with time series. It provides an easy-to-use, flexible and modular platform for a wide range of time series machine learning tasks. It offers scikit-learn compatible interfaces and model composition tools, with the goal to make the ecosystem more usable and interoperable as a whole.  
 
 <img width="712" height="254" alt="gambar" src="https://github.com/user-attachments/assets/6ab88545-d686-4726-bb8a-f5236e1066fe" />
+
+## pmdarima
+
+Pmdarima is a statistical library designed to fill the void in Python's time series analysis capabilities. This includes:
+  1. The equivalent of R's auto.arima functionality
+  2. A collection of statistical tests of stationarity and seasonality
+  3. Seasonal time series decompositions
+  4. Cross-validation utilities
+  5. A rich collection of built-in time series datasets for prototyping and examples
+    
