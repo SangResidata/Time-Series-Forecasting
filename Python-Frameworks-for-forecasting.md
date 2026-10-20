@@ -31,6 +31,10 @@ Kats is another amazing open-source project by Facebook, released by their Infra
 
 Kats is a toolkit to analyze time-series data; a lightweight, easy-to-use, and generalizable framework to perform time series analysis. Kats aims to provide a one-stop shop for time series analysis, including detection, forecasting, feature extraction/embedding, and multivariate analysis, etc.  
 
+<img width="713" height="364" alt="gambar" src="https://github.com/user-attachments/assets/630505ed-dd9a-429d-837e-80f184e4c5c1" />  
+
+
+
 <img width="716" height="433" alt="gambar" src="https://github.com/user-attachments/assets/67208bea-471a-4cf9-b733-2530d8e2b147" />  
 
 <p align="center"> Forecast using KATS </p>  
