@@ -33,4 +33,8 @@ Kats is a toolkit to analyze time-series data; a lightweight, easy-to-use, and g
 
 <img width="716" height="433" alt="gambar" src="https://github.com/user-attachments/assets/67208bea-471a-4cf9-b733-2530d8e2b147" />  
 
-<p align="center"> Forecast using KATS </p>
+<p align="center"> Forecast using KATS </p>  
+
+## Orbit
+
+Orbit is an amazing open-source project by Uber. It is a Python library for Bayesian time series forecasting. It provides a familiar and intuitive initialize-fit-predict interface for time series tasks, while utilizing probabilistic programming languages under the hood.  
