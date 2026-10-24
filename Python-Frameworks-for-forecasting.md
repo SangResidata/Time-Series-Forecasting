@@ -59,3 +59,12 @@ Next, we will see an example of an end-to-end time-series forecasting task using
 PyCaret's time series module is available in beta, you can download it from pip.
 
     pip install pycaret-ts-alpha
+
+### Dataset
+
+Here, we have used the airline dataset, which is also available under PyCaret's data repository.
+
+    from pycaret.datasets import get_data
+    data = get_data('airlineer')  
+
+    
