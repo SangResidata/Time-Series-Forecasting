@@ -67,4 +67,8 @@ Here, we have used the airline dataset, which is also available under PyCaret's 
     from pycaret.datasets import get_data
     data = get_data('airlineer')  
 
+<img width="624" height="179" alt="image" src="https://github.com/user-attachments/assets/acb6f583-e84a-4579-a603-a4d2bf16b1bc" />  
+
+
+
     
