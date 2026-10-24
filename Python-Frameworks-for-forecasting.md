@@ -54,3 +54,8 @@ PyCaret Time Series Module Architecture. Developed by Lead Developer Nikhil Gupt
 
 Next, we will see an example of an end-to-end time-series forecasting task using PyCaret library.
 
+### End-to-end Example
+
+PyCaret's time series module is available in beta, you can download it from pip.
+
+    pip install pycaret-ts-alpha
