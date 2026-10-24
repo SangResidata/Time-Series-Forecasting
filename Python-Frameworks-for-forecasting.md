@@ -46,4 +46,11 @@ Orbit is an amazing open-source project by Uber. It is a Python library for Baye
 
 ## PyCaret
 
-PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. With PyCaret, you spend less time coding and more time on analysis. You can train your model, analyze it, iterate faster than ever before, and deploy it instantaneously as a REST API or even build a simple front-end ML app, all from your favorite Notebook.
+PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. With PyCaret, you spend less time coding and more time on analysis. You can train your model, analyze it, iterate faster than ever before, and deploy it instantaneously as a REST API or even build a simple front-end ML app, all from your favorite Notebook.  
+
+<img width="872" height="221" alt="image" src="https://github.com/user-attachments/assets/0c63709c-c5cd-4d65-9350-3322f67b5cc9" />
+
+PyCaret Time Series Module Architecture. Developed by Lead Developer Nikhil Gupta.
+
+Next, we will see an example of an end-to-end time-series forecasting task using PyCaret library.
+
