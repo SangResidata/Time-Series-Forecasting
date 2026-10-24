@@ -69,6 +69,12 @@ Here, we have used the airline dataset, which is also available under PyCaret's 
 
 <img width="624" height="179" alt="image" src="https://github.com/user-attachments/assets/acb6f583-e84a-4579-a603-a4d2bf16b1bc" />  
 
+    data.plot()  
+
+<img width="621" height="441" alt="image" src="https://github.com/user-attachments/assets/da4413a1-8972-4b88-a544-beb7a1264a9b" />  
+
+
+
 
 
     
