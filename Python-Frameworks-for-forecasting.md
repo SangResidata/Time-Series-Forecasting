@@ -73,6 +73,12 @@ Here, we have used the airline dataset, which is also available under PyCaret's 
 
 <img width="621" height="441" alt="image" src="https://github.com/user-attachments/assets/da4413a1-8972-4b88-a544-beb7a1264a9b" />  
 
+### Setup Experiment
+
+Experiments in PyCaret are started using the setup function. This function takes care of all preprocessing steps, train-test-split, cross-validation strategy, and a few other tasks. 
+
+
+
 
 
 
