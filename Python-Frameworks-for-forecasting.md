@@ -80,6 +80,9 @@ Experiments in PyCaret are started using the setup function. This function takes
     from pycaret.time_series import *
     s = setup(data, session_id = 123)
     
+<img width="291" height="494" alt="image" src="https://github.com/user-attachments/assets/c2adc69b-6699-436b-acd7-68e94aced7e8" /> 
+
+
 
 
 
