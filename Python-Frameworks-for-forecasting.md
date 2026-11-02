@@ -77,6 +77,14 @@ Here, we have used the airline dataset, which is also available under PyCaret's 
 
 Experiments in PyCaret are started using the setup function. This function takes care of all preprocessing steps, train-test-split, cross-validation strategy, and a few other tasks. 
 
+    from pycaret.time_series import *
+    s = setup(data, session_id = 123)
+    
+
+
+
+
+
 
 
 
